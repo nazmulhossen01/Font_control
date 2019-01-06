@@ -1,0 +1,40 @@
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Inconsolata', monospace;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+p{
+	font-family: 'Playfair Display', serif;
+	/*font-family:MedusaStory ;*/
+}
+h1{
+	font-family: 'Inconsolata', monospace;
+}
+h2{
+	font-family: 'Ubuntu', sans-serif;
+}
+@font-face{
+	font-family: MedusaStory;
+	src:url(../fonts/MedusaStory.otf);
+
+}
+@font-face{
+	font-family: Raleway-Black;
+	src:url(../fonts/raleway/Raleway-Black.ttf);
+
+}
+@font-face{
+	font-family: Raleway-Bold;
+	src:url(../fonts/raleway/Raleway-Bold.ttf);
+
+}
+h3{
+	font-family: MedusaStory;
+	font-size: 40px;
+}
+h4{
+	font-family:Raleway-Black;
+	font-size: 20
+}
+h5{
+	font-family:Raleway-Bold;
+	font-size: 30px;
+}
